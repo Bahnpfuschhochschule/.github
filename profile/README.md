@@ -7,6 +7,9 @@ Here you will find our public repositories (Not much at the moment :P)
 - Frankfurt Fulda EP
 - TRAXX Repaints
 
+## Important Links
+- [How to label Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
 ## Social Media
 
 visit our [website](https://bahnpfuschhochschule.github.io/) or visit us at:
