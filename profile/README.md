@@ -1,16 +1,22 @@
-# Bahnpfuschhochschule
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/162801779?s=200&v=4" alt="Bahnpfuschhochschule" width="200">
+</p>
 
-Welcome to our GitHub Organization!
-Here you will find our public repositories (Not much at the moment :P)
+GitHub presence for Bahnpfuschhochschule with several repositories for our mods.
 
-## Current Projects
-- Frankfurt Fulda EP
-- TRAXX Repaints
+---
 
-## Important Links
+# Current Projects
+- BPH Roleplay
+
+---
+
+# Important Links
 - [How to label Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
-## Social Media
+---
+
+# Learn More
 
 visit our [website](https://bahnpfuschhochschule.github.io/) or visit us at:
 - [YouTube](https://www.youtube.com/@Bahnpfuschhochschule)
